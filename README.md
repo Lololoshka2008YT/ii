@@ -1,9 +1,10 @@
 # ii
+
 {
     "max_right": null,
-    "id": 218,
+    "id": 0,
     "title": "article",
-    "description": "<h1>update description</h1>",
+    "description": "",
     "owner": {
         "max_right": null,
         "id": 0,
@@ -33,8 +34,8 @@
     },
     "tasks": [],
     "is_archived": false,
-    "hex_color": "1488ff",
-    "identifier": "1456",
+    "hex_color": "1973ff",
+    "identifier": "",
     "background_information": null,
     "is_favorite": false,
     "subscription": null,
